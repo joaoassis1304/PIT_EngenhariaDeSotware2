@@ -7,4 +7,4 @@
 4. Gravar um video explicando o sistema
 5. Convidar 5 pessoas para testarem o aplicativo e gerar relatório.
    
-Todo o projeto foi planejado e documentado, toda documentação pode ser acessadda <a href=''>Clicando Aqui.</a>
+Todo o projeto foi planejado e documentado, toda documentação pode ser acessadda <a href='https://github.com/joaoassis1304/PIT_Ecommerce_Documentacao'>Clicando Aqui.</a>
