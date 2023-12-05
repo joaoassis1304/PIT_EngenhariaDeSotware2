@@ -14,9 +14,9 @@ const router = Router()
 //Página Principal
 router.get('/',(req,res)=>{  
     if(req.session.login){
-        if(req.session.login.usuario == 'admin'){
-            res.render('index',{title: "Home", usuario:req.session.login.usuario, notificacao: req.session.login.notificacao, admin:true})
-        }
+        // if(req.session.login.usuario == 'admin'){
+        //     res.render('index',{title: "Home", usuario:req.session.login.usuario, notificacao: req.session.login.notificacao})
+        // }
         res.render('index',{title: "Home",usuario:req.session.login.usuario, notificacao: req.session.login.notificacao})    
     }else{
         res.render('index',{title: "Home",usuario:undefined})
