@@ -1,4 +1,4 @@
-<h1 style="color:rgb(92, 160, 255);">Projeto Integrador Transdisciplinar em Engenharia de Software 2</h1>
+#Projeto Integrador Transdisciplinar em Engenharia de Software 2
    
 **Todo o projeto foi planejado e documentado, toda documentação pode ser acessadda <a href='https://github.com/joaoassis1304/PIT_Ecommerce_Documentacao'>Clicando Aqui.</a>**
 
